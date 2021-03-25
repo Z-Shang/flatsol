@@ -1,0 +1,11 @@
+# FlatSol
+Yet Another Solidity Flattener
+
+## Why?
+`truffle-flattener` is not very handy.
+
+## Dependency
+`fpy`
+
+## License
+GPLv3
