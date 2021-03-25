@@ -4,6 +4,24 @@ Yet Another Solidity Flattener
 ## Why?
 `truffle-flattener` is not very handy.
 
+## Usage
+```
+usage: flatsol [-h] [-x] [-V] [-I INCLUDE] [-o OUTPUT] input_file
+
+positional arguments:
+  input_file            the input file
+
+optional arguments:
+  -h, --help            show this help message and exit
+  -x, --compress        remove blank lines and comments
+  -V, --verbose
+  -I INCLUDE, --include INCLUDE
+                        additional include paths, separate with colons
+  -o OUTPUT, --output OUTPUT
+                        the output filename
+
+```
+
 ## Dependency
 `fpy`
 
