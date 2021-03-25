@@ -25,5 +25,9 @@ optional arguments:
 ## Dependency
 `fpy`
 
+## Future Works
+* Support downloading from given url
+* Support alias import
+
 ## License
 GPLv3
